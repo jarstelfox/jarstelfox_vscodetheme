@@ -1,0 +1,21 @@
+{
+    "name": "jars-theme",
+    "displayName": "Jars Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jar's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jar's Theme-color-theme.json"
+            }
+        ]
+    }
+}
